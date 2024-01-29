@@ -20,9 +20,9 @@ from telethon import TelegramClient, events, sync
 import telebot
 
 # BOT Configurations 
-API_ID = '15962642'
-API_HASH = '84ba0ce70473e249726f43b38e19333e'
-TELEGRAM_BOT = '6892703245:AAFx2MXh7rGb7T2PRjWsLhwXUmmzYrkcG8Q'
+API_ID = ''
+API_HASH = ''
+TELEGRAM_BOT = ''
 
 # ==========================================================
 ADMINS = [377011400] # ADMINS IDs
